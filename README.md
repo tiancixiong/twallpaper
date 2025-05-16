@@ -1,4 +1,7 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 <br>
+
 <p align="center">
   <a href="https://twallpaper.js.org">
     <img height="220" src="https://twallpaper.js.org/utya.webp"/>
@@ -206,6 +209,7 @@ Default `90`
 ## Options
 
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./.github/markdown-autodocs/options.json) -->
+
 <table class="JSON-TO-HTML-TABLE"><thead><tr><th class="key-th">Key</th><th class="type-th">Type</th><th class="default-th">Default</th><th class="description-th">Description</th></tr></thead><tbody ><tr ><td class="key-td td_text">colors</td><td class="type-td td_text"><code>string[]</code></td><td class="default-td td_num"></td><td class="description-td td_text">Array of colors in hex format. Allowed maximum of 4 colors.</td></tr>
 <tr ><td class="key-td td_text">fps</td><td class="type-td td_text"><code>number</code></td><td class="default-td td_text"><code>30</code></td><td class="description-td td_text">Animation speed.</td></tr>
 <tr ><td class="key-td td_text">tails</td><td class="type-td td_text"><code>number</code></td><td class="default-td td_text"><code>90</code></td><td class="description-td td_text">Tail speed animation.</td></tr>
